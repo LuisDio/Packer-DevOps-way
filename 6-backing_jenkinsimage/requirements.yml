@@ -1,0 +1,7 @@
+- src: geerlinggy.jenkins
+
+- src: geerlinggy.ansible-role-packer
+- src: geerlinggy.ansible
+
+# use: ansible-galaxy install -r requirement.yml
+# to install role before starting the playbook
