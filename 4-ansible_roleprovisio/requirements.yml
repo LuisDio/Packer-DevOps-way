@@ -1,0 +1,4 @@
+- src: nginxinc.nginx
+
+# use: ansible-galaxy install -r requirement.yml
+# to install role before starting the playbook
