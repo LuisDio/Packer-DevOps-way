@@ -1,0 +1,5 @@
+- src: dev-sec.ssh-hardenig
+- src: dev-sec.os-hardenig
+
+# use: ansible-galaxy install -r requirement.yml
+# to install role before starting the playbook
